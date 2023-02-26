@@ -1,0 +1,43 @@
+.uHomeAlt.uHomeAlt {
+  left: 16px;
+  top: 15px;
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 0;
+  right: 14.8148%;
+  top: 0;
+  bottom: 95.6446%;
+  align-items: flex-start;
+}
+.rectangle4 {
+  opacity: 0.1;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 5px;
+  background-color: #53bed2;
+}
+.dashboard {
+  color: #53bed2;
+  font-size: 14px;
+  line-height: 29px;
+  font-weight: 600;
+  font-family: Sofia Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 52px;
+  top: 19px;
+  width: 75px;
+  height: 14px;
+  justify-content: center;
+  flex-direction: column;
+}

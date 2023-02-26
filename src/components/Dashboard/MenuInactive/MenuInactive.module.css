@@ -1,0 +1,42 @@
+.uStore.uStore {
+  left: 16px;
+  top: 15px;
+  width: 20px;
+  height: 20px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 0;
+  right: 14.8148%;
+  top: 0;
+  bottom: 95.6446%;
+  align-items: flex-start;
+}
+.rectangle4 {
+  opacity: 0.1;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.autocenters {
+  color: #5d6c76;
+  font-size: 14px;
+  line-height: 29px;
+  font-family: Sofia Pro, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 52px;
+  top: 11px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
